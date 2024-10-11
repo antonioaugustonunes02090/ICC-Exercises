@@ -1,1 +1,1 @@
-Introduction to Computation Science (ICC in portuguese) activies
+Introduction to Computation Science (ICC in portuguese) activities
